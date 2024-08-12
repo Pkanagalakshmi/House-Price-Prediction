@@ -36,7 +36,7 @@ The project uses the California Housing Dataset to predict house prices based on
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/house-price-prediction.git
+   git clone https://github.com/Pkanagalakshmi/house-price-prediction.git
    cd house-price-prediction
    ```
 
